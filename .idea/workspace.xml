@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92bd581d-812f-4e93-b594-61a999588db2" name="변경" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2dIYCmfUWzMvIFZuYIOZVyxUI78" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.core 빌드.executor": "Run",
+    "JUnit.ApplicationContextBasicFindTest.findBeanByName.executor": "Run",
+    "JUnit.ApplicationContextBasicFindTest.findBeanByName2.executor": "Run",
+    "JUnit.ApplicationContextBasicFindTest.findBeanByNameX.executor": "Run",
+    "JUnit.ApplicationContextBasicFindTest.findBeanByType.executor": "Run",
+    "JUnit.ApplicationContextInfoTest.findAllBean.executor": "Run",
+    "JUnit.ApplicationContextInfoTest.findApplicationBean.executor": "Run",
+    "JUnit.MemberServiceTest.executor": "Run",
+    "JUnit.MemberServiceTest.join.executor": "Run",
+    "JUnit.OrderServiceTest.createOrder.executor": "Run",
+    "JUnit.OrderServiceTest.executor": "Run",
+    "JUnit.RateDiscountPolicyTest.executor": "Run",
+    "JUnit.RateDiscountPolicyTest.vip_o.executor": "Run",
+    "JUnit.core.test의 전부 (1).executor": "Run",
+    "JUnit.core.test의 전부 (2).executor": "Run",
+    "JUnit.core.test의 전부 (3).executor": "Run",
+    "JUnit.core.test의 전부.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.CoreApplication.executor": "Run",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "extract.method.default.visibility": "private",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Java/codingtest",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.MemberApp.executor": "Run",
+    "애플리케이션.OrderApp.executor": "Run"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="hello.core.discount" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ApplicationContextBasicFindTest.findBeanByNameX">
+    <configuration name="ApplicationContextBasicFindTest.findBeanByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="core.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.core.beanfind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.core.beanfind" />
+      <option name="MAIN_CLASS_NAME" value="hello.core.beanfind.ApplicationContextBasicFindTest" />
+      <option name="METHOD_NAME" value="findBeanByName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationContextBasicFindTest.findBeanByName2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="core.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.core.beanfind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.core.beanfind" />
+      <option name="MAIN_CLASS_NAME" value="hello.core.beanfind.ApplicationContextBasicFindTest" />
+      <option name="METHOD_NAME" value="findBeanByName2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationContextBasicFindTest.findBeanByNameX" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="core.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.core.beanfind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.core.beanfind" />
+      <option name="MAIN_CLASS_NAME" value="hello.core.beanfind.ApplicationContextBasicFindTest" />
+      <option name="METHOD_NAME" value="findBeanByNameX" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationContextBasicFindTest.findBeanByType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="core.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.core.beanfind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.core.beanfind" />
+      <option name="MAIN_CLASS_NAME" value="hello.core.beanfind.ApplicationContextBasicFindTest" />
+      <option name="METHOD_NAME" value="findBeanByType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationContextInfoTest.findApplicationBean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="core.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.core.beanfind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.core.beanfind" />
+      <option name="MAIN_CLASS_NAME" value="hello.core.beanfind.ApplicationContextInfoTest" />
+      <option name="METHOD_NAME" value="findApplicationBean" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="core.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hello.core.CoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApplicationContextBasicFindTest.findBeanByNameX" />
+        <item itemvalue="JUnit.ApplicationContextBasicFindTest.findBeanByName2" />
+        <item itemvalue="JUnit.ApplicationContextBasicFindTest.findBeanByType" />
+        <item itemvalue="JUnit.ApplicationContextBasicFindTest.findBeanByName" />
+        <item itemvalue="JUnit.ApplicationContextInfoTest.findApplicationBean" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="92bd581d-812f-4e93-b594-61a999588db2" name="변경" comment="" />
+      <created>1709696936977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709696936977</updated>
+      <workItem from="1709696938087" duration="5470000" />
+      <workItem from="1709703381556" duration="7343000" />
+      <workItem from="1709780835595" duration="10208000" />
+      <workItem from="1709865158080" duration="3260000" />
+    </task>
+    <task id="LOCAL-00001" summary="start">
+      <option name="closed" value="true" />
+      <created>1709697139636</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709697139636</updated>
+    </task>
+    <task id="LOCAL-00002" summary="회원 도메인 요구사항&#10;회원을 가입하고 조회할 수 있다.&#10;회원은 일반과 VIP 두 가지 등급이 있다.&#10;회원 데이터는 자체 DB를 구축할 수 있고, 외부 시스템과 연동할 수 있다. (미확정)&#10;-------------------------------------&#10;주문과 할인 도메인 설계&#10;주문과 할인 정책&#10;회원은 상품을 주문할 수 있다.&#10;회원 등급에 따라 할인 정책을 적용할 수 있다.&#10;할인 정책은 모든 VIP는 1000원을 할인해주는 고정 금액 할인을 적용해달라. (나중에 변경 될 수 있다.)&#10;할인 정책은 변경 가능성이 높다. 회사의 기본 할인 정책을 아직 정하지 못했고, 오픈 직전까지 고민을 미루&#10;고 싶다. 최악의 경우 할인을 적용하지 않을 수 도 있다. (미확정">
+      <option name="closed" value="true" />
+      <created>1709707597212</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709707597212</updated>
+    </task>
+    <task id="LOCAL-00003" summary="회원 도메인 요구사항&#10;회원을 가입하고 조회할 수 있다.&#10;회원은 일반과 VIP 두 가지 등급이 있다.&#10;회원 데이터는 자체 DB를 구축할 수 있고, 외부 시스템과 연동할 수 있다. (미확정)&#10;-------------------------------------&#10;주문과 할인 도메인 설계&#10;주문과 할인 정책&#10;회원은 상품을 주문할 수 있다.&#10;회원 등급에 따라 할인 정책을 적용할 수 있다.&#10;할인 정책은 모든 VIP는 1000원을 할인해주는 고정 금액 할인을 적용해달라. (나중에 변경 될 수 있다.)&#10;할인 정책은 변경 가능성이 높다. 회사의 기본 할인 정책을 아직 정하지 못했고, 오픈 직전까지 고민을 미루&#10;고 싶다. 최악의 경우 할인을 적용하지 않을 수 도 있다. (미확정">
+      <option name="closed" value="true" />
+      <created>1709707666588</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709707666588</updated>
+    </task>
+    <task id="LOCAL-00004" summary="주석 처리 (수정)&#10;할인 정책 (추가)&#10;할인 정책 테스트 (추가)">
+      <option name="closed" value="true" />
+      <created>1709782028448</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709782028448</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Appconfig 통해서 관심사를 확실하게 분리했다">
+      <option name="closed" value="true" />
+      <created>1709787176801</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709787176801</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Appconfig 리팩토링">
+      <option name="closed" value="true" />
+      <created>1709791984583</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709791984583</updated>
+    </task>
+    <task id="LOCAL-00007" summary="스프링으로 전환">
+      <option name="closed" value="true" />
+      <created>1709804794065</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709804794065</updated>
+    </task>
+    <task id="LOCAL-00008" summary="컨테이너에 등록된 모든 빈 조회">
+      <option name="closed" value="true" />
+      <created>1709871847316</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709871847316</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="start" />
+    <MESSAGE value="회원 도메인 요구사항&#10;회원을 가입하고 조회할 수 있다.&#10;회원은 일반과 VIP 두 가지 등급이 있다.&#10;회원 데이터는 자체 DB를 구축할 수 있고, 외부 시스템과 연동할 수 있다. (미확정)&#10;-------------------------------------&#10;주문과 할인 도메인 설계&#10;주문과 할인 정책&#10;회원은 상품을 주문할 수 있다.&#10;회원 등급에 따라 할인 정책을 적용할 수 있다.&#10;할인 정책은 모든 VIP는 1000원을 할인해주는 고정 금액 할인을 적용해달라. (나중에 변경 될 수 있다.)&#10;할인 정책은 변경 가능성이 높다. 회사의 기본 할인 정책을 아직 정하지 못했고, 오픈 직전까지 고민을 미루&#10;고 싶다. 최악의 경우 할인을 적용하지 않을 수 도 있다. (미확정" />
+    <MESSAGE value="주석 처리 (수정)&#10;할인 정책 (추가)&#10;할인 정책 테스트 (추가)" />
+    <MESSAGE value="Appconfig 통해서 관심사를 확실하게 분리했다" />
+    <MESSAGE value="Appconfig 리팩토링" />
+    <MESSAGE value="스프링으로 전환" />
+    <MESSAGE value="컨테이너에 등록된 모든 빈 조회" />
+    <option name="LAST_COMMIT_MESSAGE" value="컨테이너에 등록된 모든 빈 조회" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/test/java/hello/core/beanfind/ApplicationContextInfoTest.java</url>
+          <line>9</line>
+          <properties field="ac" class="hello.core.beanfind.ApplicationContextInfoTest" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
