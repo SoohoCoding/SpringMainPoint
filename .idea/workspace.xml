@@ -21,6 +21,7 @@
         <option value="Enum" />
         <option value="Interface" />
         <option value="JUnit5 Test Class" />
+        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
@@ -51,6 +52,7 @@
     "JUnit.ApplicationContextBasicFindTest.findBeanByName2.executor": "Run",
     "JUnit.ApplicationContextBasicFindTest.findBeanByNameX.executor": "Run",
     "JUnit.ApplicationContextBasicFindTest.findBeanByType.executor": "Run",
+    "JUnit.ApplicationContextExtendsFindTest.executor": "Run",
     "JUnit.ApplicationContextExtendsFindTest.findBeanByParentTypeDuplicate.executor": "Run",
     "JUnit.ApplicationContextInfoTest.findAllBean.executor": "Run",
     "JUnit.ApplicationContextInfoTest.findApplicationBean.executor": "Run",
@@ -63,6 +65,7 @@
     "JUnit.OrderServiceTest.executor": "Run",
     "JUnit.RateDiscountPolicyTest.executor": "Run",
     "JUnit.RateDiscountPolicyTest.vip_o.executor": "Run",
+    "JUnit.XmlAppContext.xmlAppContext.executor": "Run",
     "JUnit.core.test의 전부 (1).executor": "Run",
     "JUnit.core.test의 전부 (2).executor": "Run",
     "JUnit.core.test의 전부 (3).executor": "Run",
@@ -107,7 +110,7 @@
       <recent name="hello.core.discount" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ApplicationContextExtendsFindTest">
+  <component name="RunManager" selected="JUnit.XmlAppContext.xmlAppContext">
     <configuration name="ApplicationContextExtendsFindTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="core.test" />
       <extension name="coverage">
@@ -171,17 +174,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ApplicationContextSameBeanFindTest.findBeanByTypeDuplicate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="XmlAppContext.xmlAppContext" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="core.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hello.core.beanfind.*" />
+          <option name="PATTERN" value="hello.core.xml.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hello.core.beanfind" />
-      <option name="MAIN_CLASS_NAME" value="hello.core.beanfind.ApplicationContextSameBeanFindTest" />
-      <option name="METHOD_NAME" value="findBeanByTypeDuplicate" />
+      <option name="PACKAGE_NAME" value="hello.core.xml" />
+      <option name="MAIN_CLASS_NAME" value="hello.core.xml.XmlAppContext" />
+      <option name="METHOD_NAME" value="xmlAppContext" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -196,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.XmlAppContext.xmlAppContext" />
         <item itemvalue="JUnit.ApplicationContextExtendsFindTest" />
         <item itemvalue="JUnit.ApplicationContextExtendsFindTest.findBeanByParentTypeDuplicate" />
         <item itemvalue="JUnit.ApplicationContextSameBeanFindTest.findAllBeanByType" />
         <item itemvalue="JUnit.ApplicationContextSameBeanFindTest.findBeanByName" />
-        <item itemvalue="JUnit.ApplicationContextSameBeanFindTest.findBeanByTypeDuplicate" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +218,7 @@
       <workItem from="1709696938087" duration="5470000" />
       <workItem from="1709703381556" duration="7343000" />
       <workItem from="1709780835595" duration="10208000" />
-      <workItem from="1709865158080" duration="5462000" />
+      <workItem from="1709865158080" duration="7538000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <option name="closed" value="true" />
@@ -297,7 +300,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709874349028</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="스프링 빈 조회&#10;- 상속 관계">
+      <option name="closed" value="true" />
+      <created>1709875327633</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709875327633</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,7 +324,8 @@
     <MESSAGE value="컨테이너에 등록된 모든 빈 조회" />
     <MESSAGE value="스프링 빈 조회 -기본" />
     <MESSAGE value="스프링 빈 조회 - 동일한 타입이 둘 이상" />
-    <option name="LAST_COMMIT_MESSAGE" value="스프링 빈 조회 - 동일한 타입이 둘 이상" />
+    <MESSAGE value="스프링 빈 조회&#10;- 상속 관계" />
+    <option name="LAST_COMMIT_MESSAGE" value="스프링 빈 조회&#10;- 상속 관계" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
