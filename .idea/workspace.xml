@@ -53,6 +53,8 @@
     "JUnit.ApplicationContextBasicFindTest.findBeanByType.executor": "Run",
     "JUnit.ApplicationContextInfoTest.findAllBean.executor": "Run",
     "JUnit.ApplicationContextInfoTest.findApplicationBean.executor": "Run",
+    "JUnit.ApplicationContextSameBeanFindTest.findBeanByName.executor": "Run",
+    "JUnit.ApplicationContextSameBeanFindTest.findBeanByTypeDuplicate.executor": "Run",
     "JUnit.MemberServiceTest.executor": "Run",
     "JUnit.MemberServiceTest.join.executor": "Run",
     "JUnit.OrderServiceTest.createOrder.executor": "Run",
@@ -103,23 +105,7 @@
       <recent name="hello.core.discount" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ApplicationContextBasicFindTest.findBeanByNameX">
-    <configuration name="ApplicationContextBasicFindTest.findBeanByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="core.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hello.core.beanfind.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="hello.core.beanfind" />
-      <option name="MAIN_CLASS_NAME" value="hello.core.beanfind.ApplicationContextBasicFindTest" />
-      <option name="METHOD_NAME" value="findBeanByName" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.ApplicationContextSameBeanFindTest.findAllBeanByType">
     <configuration name="ApplicationContextBasicFindTest.findBeanByName2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="core.test" />
       <extension name="coverage">
@@ -152,7 +138,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ApplicationContextBasicFindTest.findBeanByType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ApplicationContextSameBeanFindTest.findAllBeanByType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="core.test" />
       <extension name="coverage">
         <pattern>
@@ -161,14 +147,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="hello.core.beanfind" />
-      <option name="MAIN_CLASS_NAME" value="hello.core.beanfind.ApplicationContextBasicFindTest" />
-      <option name="METHOD_NAME" value="findBeanByType" />
+      <option name="MAIN_CLASS_NAME" value="hello.core.beanfind.ApplicationContextSameBeanFindTest" />
+      <option name="METHOD_NAME" value="findAllBeanByType" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ApplicationContextInfoTest.findApplicationBean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ApplicationContextSameBeanFindTest.findBeanByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="core.test" />
       <extension name="coverage">
         <pattern>
@@ -177,8 +163,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="hello.core.beanfind" />
-      <option name="MAIN_CLASS_NAME" value="hello.core.beanfind.ApplicationContextInfoTest" />
-      <option name="METHOD_NAME" value="findApplicationBean" />
+      <option name="MAIN_CLASS_NAME" value="hello.core.beanfind.ApplicationContextSameBeanFindTest" />
+      <option name="METHOD_NAME" value="findBeanByName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationContextSameBeanFindTest.findBeanByTypeDuplicate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="core.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.core.beanfind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.core.beanfind" />
+      <option name="MAIN_CLASS_NAME" value="hello.core.beanfind.ApplicationContextSameBeanFindTest" />
+      <option name="METHOD_NAME" value="findBeanByTypeDuplicate" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -193,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ApplicationContextSameBeanFindTest.findAllBeanByType" />
+        <item itemvalue="JUnit.ApplicationContextSameBeanFindTest.findBeanByName" />
+        <item itemvalue="JUnit.ApplicationContextSameBeanFindTest.findBeanByTypeDuplicate" />
         <item itemvalue="JUnit.ApplicationContextBasicFindTest.findBeanByNameX" />
         <item itemvalue="JUnit.ApplicationContextBasicFindTest.findBeanByName2" />
-        <item itemvalue="JUnit.ApplicationContextBasicFindTest.findBeanByType" />
-        <item itemvalue="JUnit.ApplicationContextBasicFindTest.findBeanByName" />
-        <item itemvalue="JUnit.ApplicationContextInfoTest.findApplicationBean" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +214,7 @@
       <workItem from="1709696938087" duration="5470000" />
       <workItem from="1709703381556" duration="7343000" />
       <workItem from="1709780835595" duration="10208000" />
-      <workItem from="1709865158080" duration="3260000" />
+      <workItem from="1709865158080" duration="4512000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <option name="closed" value="true" />
@@ -278,7 +280,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709871847316</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="스프링 빈 조회 -기본">
+      <option name="closed" value="true" />
+      <created>1709873479417</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709873479417</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,7 +302,8 @@
     <MESSAGE value="Appconfig 리팩토링" />
     <MESSAGE value="스프링으로 전환" />
     <MESSAGE value="컨테이너에 등록된 모든 빈 조회" />
-    <option name="LAST_COMMIT_MESSAGE" value="컨테이너에 등록된 모든 빈 조회" />
+    <MESSAGE value="스프링 빈 조회 -기본" />
+    <option name="LAST_COMMIT_MESSAGE" value="스프링 빈 조회 -기본" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
